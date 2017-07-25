@@ -1,5 +1,7 @@
 # webpack-template webpack react项目模板
+> 重要文件版本
 
+> 最新模板 react-router4 webpack3 [看这里](https://github.com/mjzhang1993/react-router4-template)
 
 ## 1.编译并生成开发版本
 
